@@ -1,1 +1,4 @@
-# CS445Project
+# Blackpug replacement software
+Team: Sam Tilly
+
+Currently in Scouting, a software called Blackpug is used for event management, as well as merit badge completion tracking at those events. This software will be based on those already existing features, as well as adding in a few new ones. The merit badge counselors, in the new software, will be able to put in a lesson plan so inputting daily progress at camp is easier for them, for example. The information will be stored on a remote device which the software will pull from to display to the users. There will also be different accounts that this software can work with, a parent account to register attendees for events, a merit badge counselor account to track participant progress towards achievements, and an event administrator account who has the ability to make changes regarding events and their requirements.
